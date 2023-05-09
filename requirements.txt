@@ -1,0 +1,4 @@
+django==2
+gtts
+playsound
+speech-recognition
